@@ -13,6 +13,7 @@
 <h3 align="left">
 <a href="https://linkedin.com/in/bryan-krausen-5ab8794"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/btkrausen" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+<a href="https://www.youtube.com/user/bryankrausen" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
 
 <br>
 
