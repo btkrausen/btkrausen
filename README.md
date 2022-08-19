@@ -45,7 +45,7 @@
 
 ### **Buy my book on Amazon:**
 - 👉 [Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
-- You can also buy my book on Gumroad in PDF format
+### **Buy my book on Gumroad in PDF format**
 - 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
 
 <br>
