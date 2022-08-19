@@ -64,8 +64,8 @@
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="100" height="30"/>
   <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="100" height="30"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="100" height="30"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="80" height="30"/>
-  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="90" height="30"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
+  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="110" height="30"/>
   <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="60" height="30" />
   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
   <img alt="Tesla" src="https://img.shields.io/badge/Tesla-C00?logo=tesla&logoColor=fff&style=for-the-badge" width="80" height="30" />
