@@ -60,7 +60,7 @@
   <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF" width="90" height="30" />
   <img alt="Udemy" src="https://camo.githubusercontent.com/b10841c7e1a339e8bf38dfcecbc5c270fb66c4ee4b73abacd77f3505148ee481/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4131303046463f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465" width="100" height="30"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"/>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="80" height="30"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
