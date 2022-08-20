@@ -17,7 +17,7 @@
 
 <br>
 
-## **My Courses on Udemy along with Discount Coupons**
+## **My Courses on Udemy and Discount Coupons**
 
 | No  | Course Link | Coupon Code | Valid Until |
 | --- | ----------- | ----------- | ----------- |
