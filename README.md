@@ -21,7 +21,7 @@
 
 | No  | Course Link | Coupon Code | Valid Until |
 | --- | ----------- | ----------- | ----------- |
-| 1 | [Getting Started with HashiCorp Vault](btk.me/v) | AUGUST22 | Sept 2nd |
+| 1 | [Getting Started with HashiCorp Vault](https://btk.me/v) | AUGUST22 | Sept 2nd |
 | 2 | [HashiCorp Vault: The Advanced Course](https://www.udemy.com/course/vaultadvanced/?referralCode=C4C5A5D0BAD6EC1D2D1A) | AUGUST22 | Sept 2nd |
 | 3 | [Integrating HashiCorp Vault with AWS](https://www.udemy.com/course/integrating-hashicorp-vault-with-aws/?referralCode=8069E87B5BA71FD21632) | AUGUST22 | Sept 2nd |
 | 4 | [HashiCorp Certified: Vault Operations Professional](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/?referralCode=C3228B05DB53D1EB9C9E) | AUGUST22 | Sept 2nd |
