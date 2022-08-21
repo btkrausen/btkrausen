@@ -22,15 +22,15 @@
 | No  | Course Link | Coupon Code | Valid Until |
 | --- | ----------- | ----------- | ----------- |
 | 1 | [Getting Started with HashiCorp Vault](https://btk.me/v) | AUGUST22 | Sept 2nd |
-| 2 | [HashiCorp Vault: The Advanced Course](https://www.udemy.com/course/vaultadvanced/?referralCode=C4C5A5D0BAD6EC1D2D1A) | AUGUST22 | Sept 2nd |
-| 3 | [Integrating HashiCorp Vault with AWS](https://www.udemy.com/course/integrating-hashicorp-vault-with-aws/?referralCode=8069E87B5BA71FD21632) | AUGUST22 | Sept 2nd |
-| 4 | [HashiCorp Certified: Vault Operations Professional](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/?referralCode=C3228B05DB53D1EB9C9E) | AUGUST22 | Sept 2nd |
-| 5 | [HashiCorp Certified: Terraform Associate Hands-On Lab Course](https://www.udemy.com/course/terraform-hands-on-labs/?referralCode=D916D9152FAE03F053E3) | AUGUST22 | Sept 2nd |
-| 6 | [HashiCorp Certified: Terraform Associate Practice Exam](https://www.udemy.com/course/terraform-associate-practice-exam/?referralCode=D98434484AB772F1C1A2) | AUGUST22 | Sept 2nd |
-| 7 | [HashiCorp Certified: Vault Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/?referralCode=B053909C293F10D9408D) | AUGUST22 | Sept 2nd |
-| 8 | [HashiCorp Certified: Consul Associate Practice Exam](https://www.udemy.com/course/consul-associate-practice-exam/?referralCode=DFDB41615ADFB8C1CD6A) | AUGUST22 | Sept 2nd |
-| 9 | [Getting Started with HashiCorp Consul](https://www.udemy.com/course/hashicorp-consul/?referralCode=6506321DC305903E7BFA) | AUGUST22 | Sept 2nd |
-| 10 | [Building Automated Machine Images using HashiCorp Packer](https://www.udemy.com/course/hashicorp-packer/?referralCode=C6799F68F1B5A1359218) | AUGUST22 | Sept 2nd |
+| 2 | [HashiCorp Vault: The Advanced Course](https://btk.me/va) | AUGUST22 | Sept 2nd |
+| 3 | [Integrating HashiCorp Vault with AWS](https://btk.me/vaws) | AUGUST22 | Sept 2nd |
+| 4 | [HashiCorp Certified: Vault Operations Professional](https://btk.me/vp) | AUGUST22 | Sept 2nd |
+| 5 | [HashiCorp Certified: Terraform Associate Hands-On Lab Course](https://btk.me/tfhol) | AUGUST22 | Sept 2nd |
+| 6 | [HashiCorp Certified: Terraform Associate Practice Exam](https://btk.me/tf) | AUGUST22 | Sept 2nd |
+| 7 | [HashiCorp Certified: Vault Associate Practice Exam](https://btk.me/vpe) | AUGUST22 | Sept 2nd |
+| 8 | [HashiCorp Certified: Consul Associate Practice Exam](https://btk.me/cpe) | AUGUST22 | Sept 2nd |
+| 9 | [Getting Started with HashiCorp Consul](https://btk.me/c) | AUGUST22 | Sept 2nd |
+| 10 | [Building Automated Machine Images using HashiCorp Packer](https://btk.me/p) | AUGUST22 | Sept 2nd |
 
 <br>
 
