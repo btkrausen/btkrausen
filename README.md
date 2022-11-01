@@ -11,7 +11,7 @@
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=btkrausen"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=btkrausen"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/btkrausen" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 <a href="https://www.youtube.com/user/bryankrausen" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
 
