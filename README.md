@@ -32,7 +32,7 @@
 | 9 | [HashiCorp Certified: Consul Associate Practice Exam](https://btk.me/cpe) | FEB2023 | March 7, 2023 |
 | 10 | [Getting Started with HashiCorp Consul](https://btk.me/c) | FEB2023 | March 7, 2023 |
 | 11 | [Building Automated Machine Images using HashiCorp Packer](https://btk.me/p) | FEB2023 | March 7, 2023 |
-| 12 | HashiCorp Nomad for Beginners | COMING SOON | COMING SOON |
+| 12 | [HashiCorp Nomad Fundamentals: The Ultimate Beginner's Guide](https://btk.me/n) | LAUNCH | March 18. 2023 |
 
 <br>
 
