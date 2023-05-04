@@ -41,14 +41,17 @@
 <br>
 
 <a href="https://amzn.to/2UeUjAI"> <img align="center" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" /></a>
+<a href="https://amzn.to/3HAw4pF"> <img align="center" alt="" src="https://m.media-amazon.com/images/I/41MY0+EHAbL._SX331_BO1,204,203,200_.jpg" width="200" height="300" /></a>
 
 <br>
 
 ### **Buy my book on Amazon:**
 - 👉 [Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
-### **Buy my book on Gumroad in PDF format**
-- 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
+- 👉 [The Best-Kept Secrets of HashiCorp Vault](https://amzn.to/3HAw4pF)
 
+### **Buy my books on Gumroad in PDF format**
+- 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
+- 👉 [The Best-Kep Secrets of HashiCorp Vault](https://btkrausen.gumroad.com/l/secretsofvault)
 <br>
 
 <h2>Techology Stack and Experience 💻</h2>
