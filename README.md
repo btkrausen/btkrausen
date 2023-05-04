@@ -51,7 +51,7 @@
 
 ### **Buy my books on Gumroad in PDF format**
 - 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
-- 👉 [The Best-Kep Secrets of HashiCorp Vault](https://btkrausen.gumroad.com/l/secretsofvault)
+- 👉 [The Best-Kept Secrets of HashiCorp Vault](https://btkrausen.gumroad.com/l/secretsofvault)
 <br>
 
 <h2>Techology Stack and Experience 💻</h2>
