@@ -1,7 +1,7 @@
 # Hi, I'm Bryan 👋🏻
 
 ## **I'm a Udemy Instructor, an Author, and a Principal Consultant.**
-- 🗣 I've taught 30,000+ students on HashiCorp products, such as Terraform, Vault, Consul, Packer, and others.
+- 🗣 I've taught almost 100,000 students on products such as HashiCorp Terraform, Vault, Consul, Packer, Nomad, AWS services, and GitHub, among others.
 - 🚀 I also specialize in AWS, with over 10 years experience of AWS design and implementation
 - 📲 Reach out to me for Consultancy regarding AWS and HashiCorp.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
