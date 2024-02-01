@@ -103,6 +103,7 @@
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/bryan-krausen)
 
 <p align="left">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/1e4003a1-ffd4-4eb9-a9da-e14f486255d9/image.png" width="125" height="125">
@@ -112,11 +113,12 @@
   <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png" width="125" height="125">
-	
+	<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125">
 </p>
 
 ##  **My Achievements 🏅**
-- [HashiCorp Ambassador 2022](https://www.credly.com/badges/4c5fb8cd-6967-4fb1-941d-5087f5bf540a)
+- [HashiCorp Ambassador 2023](https://www.credly.com/badges/c9805491-7976-4d57-8514-208115891e8b)
 - [Terraform: Authorized HashiCorp Instructor](https://www.credly.com/badges/76266b60-c8c3-40cd-ba08-eaa0403532a6)
 - [Vault: Authorized HashiCorp Instructor](https://www.credly.com/badges/4db4a411-d59a-433a-810c-988af1f5ea34)
 - [Consul: Authorized HashiCorp Instructor](https://www.credly.com/badges/8c046d17-788d-4fbe-8120-862557beaedd)
