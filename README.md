@@ -15,7 +15,7 @@
 
 <br>
 
-## 👇👇👇 **Udemy Discount Coupons** 👇👇👇
+## **Udemy Discount Coupons**
 
 ## 🧑‍💻 🧑‍💻 Video Courses 🧑‍💻 🧑‍💻
 
