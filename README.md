@@ -21,7 +21,7 @@
 
 | Course Link | Repo Link | Coupon Code |
 | ----------- | --------- |------------ |
-| [GitHub Copilot: Use GenAI to Write Terraform for You!)](https://btk.me/cp) | [Link](https://github.com/btkrausen/terraform)| SEPT2024 |
+| [GitHub Copilot: Use GenAI to Write Terraform for You!](https://btk.me/cp) | [Link](https://github.com/btkrausen/terraform)| SEPT2024 |
 | [HashiCorp Certified: Vault Associate (w/ Hands-On Labs)](https://btk.me/v) | [Link](https://github.com/btkrausen/hashicorp/tree/master/vault)| AUG2024 |
 | [Integrating HashiCorp Vault with AWS](https://btk.me/vaws) | [Link](https://github.com/btkrausen/hashicorp/tree/master/vault)| AUG2024 |
 | [HashiCorp Certified: Vault Operations Professional](https://btk.me/vp) |[Link](https://github.com/btkrausen/hashicorp/tree/master/vault) | AUG2024 |
