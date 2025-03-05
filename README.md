@@ -21,7 +21,7 @@
 
 | Course Link | Repo Link | Coupon Code |
 | ----------- | :---------: |:------------: |
-| HashiCorp Terraform: The Ultimate Beginner's Guide (with Labs) | COMING SOON | COMING SOON
+| [HashiCorp Terraform: The Ultimate Beginner's Guide (with Labs)](https://btk.me/tb) | [Link](https://github.com/btkrausen/terraform-codespaces) | MARCH2025
 | [GitHub Copilot: Use GenAI to Write Terraform for You!](https://btk.me/cp) | [Link](https://github.com/btkrausen/terraform)| MARCH2025 |
 | [HashiCorp Vault for the Absolute Beginner](https://btk.me/vb) | [Link](https://github.com/btkrausen/hashicorp/tree/master/vault)| MARCH2025 |
 | [HashiCorp Certified: Vault Associate (w/ Hands-On Labs)](https://btk.me/v) | [Link](https://github.com/btkrausen/hashicorp/tree/master/vault)| MARCH2025 |
