@@ -135,7 +135,7 @@
 </p>
 
 ##  **My Achievements 🏅**
-- [HashiCorp Ambassador 2023](https://www.credly.com/badges/c9805491-7976-4d57-8514-208115891e8b)
+- [HashiCorp Ambassador 2025](https://www.credly.com/badges/737f8c4a-9a4f-409d-a3b0-545e943dafd6)
 - [Terraform: Authorized HashiCorp Instructor](https://www.credly.com/badges/76266b60-c8c3-40cd-ba08-eaa0403532a6)
 - [Vault: Authorized HashiCorp Instructor](https://www.credly.com/badges/4db4a411-d59a-433a-810c-988af1f5ea34)
 - [Consul: Authorized HashiCorp Instructor](https://www.credly.com/badges/8c046d17-788d-4fbe-8120-862557beaedd)
