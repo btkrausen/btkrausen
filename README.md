@@ -129,7 +129,7 @@
   <img src="https://images.credly.com/size/680x680/images/695f0ff2-35f7-41b8-8b15-5ee987aae2b9/blob" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/a366e439-0eee-419b-a6fd-48b7807c9035/blob" width="125" height="125">
-  <img src="  https://images.credly.com/size/680x680/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125">
 </p>
