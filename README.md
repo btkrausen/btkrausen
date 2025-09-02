@@ -104,8 +104,6 @@
   <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
   <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="80" height="30" />
   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
-  <img alt="Tesla" src="https://img.shields.io/badge/Tesla-C00?logo=tesla&logoColor=fff&style=for-the-badge" width="80" height="30" />
-  <img alt="Ubiquiti" src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" width="100" height="30" />
 </p>
 
 ##  **My Certifications 🏅**
@@ -127,12 +125,12 @@
   <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/1e4003a1-ffd4-4eb9-a9da-e14f486255d9/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/308a8fa3-7e23-4cc6-ba2a-6c67939851d4/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png" width="125" height="125">
-	<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/8d1dd8e5-c702-4ba1-9167-1d58bbe6c641/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/695f0ff2-35f7-41b8-8b15-5ee987aae2b9/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/a366e439-0eee-419b-a6fd-48b7807c9035/blob" width="125" height="125">
+  <img src="  https://images.credly.com/size/680x680/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125">
 </p>
 
@@ -151,8 +149,10 @@
   <img src="https://images.credly.com/size/340x340/images/06426d9c-4375-4641-9bd2-4078984affc0/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/1b61c97d-6378-4457-a986-3123a82d0a03/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/72d19916-408b-4f4e-825d-865c5aa77335/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/b871d34d-e2d5-4371-bc02-2c5345fe0df3/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/28e1a22f-6bbd-49ce-8e08-4a675a7fd899/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/9ea08cb1-4567-4d56-800a-ae87a341fe07/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/2aa67ef4-31b0-425d-a7e7-e7aef6d555c1/blob" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/2dedde39-1acb-461e-b22d-921a42565196/blob" width="125" height="125">
+
 	
 </p>
 
