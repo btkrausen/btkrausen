@@ -49,7 +49,8 @@
 ## 📝 📝 Practice Exam Courses 📝 📝
 | Course Link | Coupon Code |
 | ----------- | :-----------: |
-| [HashiCorp Certified: Terraform Associate Practice Exam](https://www.udemy.com/course/terraform-associate-practice-exam/?referralCode=D98434484AB772F1C1A2) | NOV2025 |
+| [HashiCorp Certified: Terraform Associate 004 Practice Exam](https://www.udemy.com/course/terraform-associate-004-practice-exams/?referralCode=F29E81A432F845F9DE67) | NOV2025 |
+| [HashiCorp Certified: Terraform Associate 003 Practice Exam](https://www.udemy.com/course/terraform-associate-practice-exam/?referralCode=D98434484AB772F1C1A2) | NOV2025 |
 | [Kubernetes and Cloud Native Associate (KCNA) Practice Exams](https://www.udemy.com/course/kcna-exams/?referralCode=7FF3D0CDD38F049269A9) | NOV2025 |
 | [HashiCorp Certified: Vault Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/?referralCode=B053909C293F10D9408D) | NOV2025 |
 | [HashiCorp Certified: Consul Associate Practice Exam](https://www.udemy.com/course/consul-associate-practice-exam/?referralCode=DFDB41615ADFB8C1CD6A) | NOV2025 |
