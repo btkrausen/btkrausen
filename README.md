@@ -32,7 +32,7 @@
 
 | Course Link | Repo Link | Coupon Code |
 | ----------- | :---------: |:------------: |
-| [HashiCorp Certified: Terraform Associate 004 Exam Prep Course)](https://www.udemy.com/course/hashicorp-certified-terraform-associate-004/?referralCode=49F5B1DF49EB3C8347B5) | [Link](https://github.com/btkrausen/terraform-associate-codespaces) | JUNE2026 |
+| [HashiCorp Certified: Terraform Associate 004 Exam Prep Course](https://www.udemy.com/course/hashicorp-certified-terraform-associate-004/?referralCode=49F5B1DF49EB3C8347B5) | [Link](https://github.com/btkrausen/terraform-associate-codespaces) | JUNE2026 |
 | [HashiCorp Terraform: The Ultimate Beginner's Guide (with Labs)](https://www.udemy.com/course/terraform-for-beginners-with-labs/?referralCode=4624364AC12873F01ECC) | [Link](https://github.com/btkrausen/terraform-codespaces) | JUNE2026 |
 | [GitHub Copilot: Use GenAI to Write Terraform for You!](https://www.udemy.com/course/githubcopilot/?referralCode=39253AB760C8FA3DC046) | [Link](https://github.com/btkrausen)| JUNE2026 |
 | [GitHub Copilot Coding Agent: Build, Test, and Ship Code Fast](https://www.udemy.com/course/github-copilot-coding-agent/?referralCode=F9602D867612DB74ACC2) | [Link](https://github.com/btkrausen)| JUNE2026 |
