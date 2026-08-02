@@ -16,9 +16,9 @@ Hands-on training for <b>AWS, HashiCorp, and GitHub</b> — practice exams, real
 </p>
 
 <p align="center">
-  <a href="https://btk.me/btk"><img height="50" src="https://img.shields.io/badge/%F0%9F%9A%80%20Browse%20All%20Courses-EC5252?style=flat" alt="Browse all courses on Udemy"/></a>
+  <a href="https://btk.me/btk"><img height="44" src="https://img.shields.io/badge/%F0%9F%9A%80%20Browse%20All%20Courses-EC5252?style=for-the-badge" alt="Browse all courses on Udemy"/></a>
   &nbsp;
-  <a href="https://btk.me/meet"><img height="50" src="https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Coaching%20Session-blueviolet?style=flat" alt="Book a coaching session"/></a>
+  <a href="https://btk.me/meet"><img height="44" src="https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Coaching%20Session-blueviolet?style=for-the-badge" alt="Book a coaching session"/></a>
 </p>
 
 ---
